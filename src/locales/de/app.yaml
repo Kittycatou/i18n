@@ -7,6 +7,7 @@ aboutGist2: Sie können einen vorhandenen Kern hier kopieren und einfügen, um i
 accountCreated: Account erstellt
 account: Konto
 actions: Aktions
+allDocumentation: Alle dokumentationen
 andThatIsAwesome: Und das ist großartig
 applyThisLayout: Wenden Sie dieses Layout an
 areYouSureYouWantToContinue: Sind Sie sicher, dass Sie fortfahren möchten?
@@ -33,8 +34,6 @@ clearGist: Kern löschen
 close: Schließen
 colourYes: "Farbbild: Inhalt ist auf Deutsch verfügbar"
 community: Community
-completeSignupText: "Bevor wir mit dem falschen Fuß beginnen, sollten wir sicherstellen, dass Ihr Konto richtig eingerichtet ist. Führen Sie einfach die folgenden Schritte aus:"
-completeSignupTitle: Vervollständigen Sie Ihre Anmeldung
 configureLayout: Layout konfigurieren
 configureYourDraft: Konfigurieren Sie Ihren Entwurf
 contactUs: Kontaktiere uns
@@ -53,9 +52,11 @@ darkMode: Dunkler Modus
 default: Standard
 demo: Demo
 docs: Dokumente
+docsFooterMsg: Die Dokumentation ist nie fertig. Hoffentlich konnten wir alle Ihre Fragen beantworten, aber wenn dies nicht der Fall ist, ist Hilfe verfügbar.
 docsNotFoundMsg: Wir konnten diese Dokumentation nicht finden, was normalerweise bedeutet, dass sie noch nicht geschrieben wurde.
 docsNotFoundTitle: Diese Dokumentation fehlt
 documentationForDevelopers: Dokumentation für Entwickler
+documentationForEditors: Dokumentation für Redakteure
 documentationForTranslators: Dokumentation für Übersetzer
 documentationOverview: Überblick über die Dokumentation
 download: Herunterladen
@@ -94,8 +95,10 @@ imperialUnits: Imperiale Einheiten (cm)
 info: Info
 instagram: Instagram
 invalidTldMessage: '.{tld} ist keine gültige TLD'
+joinTheChatMsg: Wir haben einen Chatroom auf Gitter mit freundlichen Menschen, die gerne helfen. Also sei nicht schüchtern und schau bei einem Chat vorbei.
 justAMoment: Einen Moment bitte
 layout: Layout
+letUsSetupYourAccount: Lassen Sie uns Ihr Konto einrichten
 logIn: Anmelden
 loginWithProvider: 'Anmelden mit<br>{provider}'
 logOut: Abmelden
@@ -129,6 +132,7 @@ patron-2: Pulveraffe
 patron-4: Steuermann
 patron-8: Kapitän
 patron: Gönner
+ourPatrons: Unsere Gönner
 patronHelp: Wenn Sie Fragen haben oder Änderungen an Ihrem Schutzstatus vornehmen möchten, wenden Sie sich bitte an Joost.
 patronPitch: Wenn Sie der Meinung sind, dass das, was wir tun, sich lohnt, und wenn Sie jeden Monat ein paar Münzen einsparen können, dann sollten auch Sie ein Gönner des Freesewing werden.
 patronsKeepUsAfloat: Freesewing wird durch die finanzielle Unterstützung unserer Gönner ermöglicht. Sie halten dieses Schiff über Wasser.
@@ -208,3 +212,6 @@ youAreAPatron: Du bist ein Gönner
 youAreNotAPatron: Sie sind gein Gönner
 youAreNotLoggedIn: Du bist nicht eingeloggt
 yourRights: Deine Rechte
+filterByPattern: Nach Muster filtern
+searchLanguageTitle: Können Sie nicht finden, wonach Sie suchen?
+searchLanguageMsg: Jede Sprache hat einen eigenen Suchindex. Da nicht alle Inhalte übersetzt werden, finden Sie möglicherweise weitere Ergebnisse in der englischen Suche.

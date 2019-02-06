@@ -7,6 +7,7 @@ aboutGist2: Puede copiar / pegar una esencia existente aquí para usarla como pu
 accountCreated: cuenta creada
 account: Cuenta
 actions: Acciones
+allDocumentation: Toda la documentación
 andThatIsAwesome: Y eso es genial
 applyThisLayout: Aplicar este diseño
 areYouSureYouWantToContinue: Estás seguro de que quieres continuar?
@@ -33,8 +34,6 @@ clearGist: Borrar esencia
 close: Cerrar
 colourYes: "Imagen en color: el contenido está disponible en español."
 community: Comunidad
-completeSignupText: "Antes de comenzar con el pie equivocado, asegurémonos de que su cuenta esté configurada correctamente. Simplemente complete los pasos a continuación:"
-completeSignupTitle: Complete su registro
 configureLayout: Configurar diseño
 configureYourDraft: Configurar su boceto
 contactUs: Contactáctanos
@@ -53,9 +52,11 @@ darkMode: Modo oscuro
 default: Defecto
 demo: Demostración
 docs: Documentación
+docsFooterMsg: La documentación nunca se termina. Ojalá pudiéramos responder a todas sus preguntas, pero si ese no es el caso, hay ayuda disponible.
 docsNotFoundMsg: No pudimos encontrar esta documentación, lo que generalmente significa que aún no se ha escrito.
 docsNotFoundTitle: Esta documentación falta
 documentationForDevelopers: Documentación para desarrolladores
+documentationForEditors: Documentación para editores
 documentationForTranslators: Documentación para traductores
 documentationOverview: Documentation general
 download: Descargar
@@ -94,8 +95,10 @@ imperialUnits: Unidades imperiales (pulgadas)
 info: Información
 instagram: Instagram
 invalidTldMessage: '.{tld} no es un TLD válido'
+joinTheChatMsg: Tenemos una sala de chat en Gitter con personas amigables que están felices de ayudar. Así que no seas tímido, y pasa por un chat.
 justAMoment: Un momento
 layout: Diseño
+letUsSetupYourAccount: Permítanos configurar su cuenta
 logIn: Iniciar sesión
 loginWithProvider: 'Inicia sesión con<br>{provider}'
 logOut: cerrar sesión
@@ -130,6 +133,7 @@ patron-4: Primer oficial
 patron-8: Capitán
 patronHelp: Si tiene alguna pregunta o desea realizar cambios en su estado de mecenas, comuníquese con Joost.
 patron: Mecenas
+ourPatrons: Nuestros mecenas
 patronPitch: Si crees que lo que hacemos vale la pena, y si puedes ahorrar unas cuantas monedas cada mes, entonces también deberías convertirte en un mecenas de freesewing.
 patronsKeepUsAfloat: El apoyo financiero de nuestros mecenas posibilita la liberación gratuita. Mantienen este barco a flote.
 patternInstructions: Intrucciones de los patrones
@@ -208,3 +212,7 @@ youAreAPatron: Eres un mecenas
 youAreNotAPatron: Tu no eres un mecenas
 youAreNotLoggedIn:  No has iniciado sesión
 yourRights: Tus derechos
+filterByPattern: Filtrar por patrón
+searchLanguageTitle: ¿No encuentras lo que buscas?
+searchLanguageMsg: Cada idioma tiene su propio índice de búsqueda. Dado que no todo nuestro contenido está traducido, puede encontrar más resultados en la búsqueda en inglés.
+

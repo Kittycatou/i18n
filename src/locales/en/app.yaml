@@ -7,6 +7,7 @@ aboutGist2: You can copy/paste an existing gist here to use it as a starting poi
 account: Account
 accountCreated: Account created
 actions: Actions
+allDocumentation: All documentation
 andThatIsAwesome: And that is awesome
 applyThisLayout: Apply this layout
 areYouSureYouWantToContinue: Are you sure you want to continue?
@@ -33,8 +34,6 @@ clearGist: Clear gist
 close: Close
 colourYes: "Colour picture: Content is available in English"
 community: Community
-completeSignupText: "Before we start off on the wrong foot, let's make sure your account is set up correctly. Simply complete the steps below:"
-completeSignupTitle: Complete your signup
 configureLayout: Configure layout
 configureYourDraft: Configure your draft
 contactUs: Contact us
@@ -53,9 +52,11 @@ darkMode: Dark mode
 default: Default
 demo: Demo
 docs: Documentation
+docsFooterMsg: Documentation is never finished. Hopefully we were able to answer all your questions, but if that's not the case, help is available.
 docsNotFoundMsg: We were unable to find this documentation, which typically means that it hasn't been written yet.
 docsNotFoundTitle: This documentation is missing
 documentationForDevelopers: Documentation for developers
+documentationForEditors: Documentation for editors
 documentationForTranslators: Documentation for translators
 documentationOverview: Documentation overview
 download: Download
@@ -94,8 +95,10 @@ imperialUnits: Imperial units (inch)
 info: Info
 instagram: Instagram
 invalidTldMessage: '.{tld} is not a valid TLD'
+joinTheChatMsg: We have a chatroom on Gitter with friendly people who are happy to help out.  So don't be shy, and stop by for a chat.
 justAMoment: Just a moment
 layout: Layout
+letUsSetupYourAccount: Let us set up your account
 logIn: Log in
 loginWithProvider: 'Log in with<br>{provider}'
 logOut: Log out
@@ -130,6 +133,7 @@ patron-4: First mate
 patron-8: Captain
 patronHelp: If you have any questions, or would like to make changes to your Patron status, please contact Joost.
 patron: Patron
+ourPatrons: Our patrons
 patronPitch: If you think what we do is worthwhile, and if you can spare a few coins every month, then you too should become a Patron of freesewing.
 patronsKeepUsAfloat: Freesewing is made possible by the financial support of our Patrons. They keep this ship afloat.
 patternInstructions: Pattern instructions
@@ -208,3 +212,7 @@ youAreAPatron: You are a patron
 youAreNotAPatron: Your are not a patron
 youAreNotLoggedIn: You are not logged in
 yourRights: Your rights
+filterByPattern: Filter by pattern
+searchLanguageTitle: Can't find what you're looking for?
+searchLanguageMsg: Every language has its own search index. Since not all our content is translated, you may find more result in the English search.
+

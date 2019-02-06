@@ -7,6 +7,7 @@ aboutGist2: Je kan een bestaande resumé kopiëren en plakken om als basis te di
 account: Account
 accountCreated: Account aangemaakt
 actions: Acties
+allDocumentation: Alle documentatie
 andThatIsAwesome: En dat is geweldig
 applyThisLayout: Pas deze layout toe
 areYouSureYouWantToContinue: Weet je zeker dat je door wilt gaan?
@@ -33,8 +34,6 @@ clearGist: Resumé wissen
 close: Sluiten
 colourYes: "Kleurenfoto: Inhoud is beschikbaar in het Nederlands"
 community: Gemeenschap
-completeSignupText: "Voordat we onze start missen, laten we ervoor zorgen dat je account correct is ingesteld. Volg daartoe de onderstaande stappen:"
-completeSignupTitle: Voltooi je inschrijving
 configureLayout: Configureer layout
 configureYourDraft: Configureer je patroontekening
 contactUs: Neem contact op
@@ -53,9 +52,11 @@ darkMode: Donkere modus
 default: Standaard
 demo: Demo
 docs: Documentatie
+docsFooterMsg: Documentatie is nooit af. Hopelijk hebben we al je vragen kunnen beantwoorden, maar als dat niet het geval is, is er hulp beschikbaar.
 docsNotFoundMsg: We konden deze documentatie niet vinden, wat meestal betekent dat deze nog niet is geschreven.
 docsNotFoundTitle: Deze documentatie ontbreekt
 documentationForDevelopers: Documentatie voor ontwikkelaars
+documentationForEditors: Documentatie voor redacteuren
 documentationForTranslators: Documentatie voor vertalers
 documentationOverview: Overzicht documentatie
 download: Download
@@ -94,8 +95,10 @@ imperialUnits: Imperiale (Engelse) eenheden (duim)
 info: Info
 instagram: Instagram
 invalidTldMessage: '.{tld} is geen geldige TLD'
+joinTheChatMsg: We hebben een chatroom op Gitter met vriendelijke mensen die graag helpen. Dus wees niet verlegen en kom langs voor een praatje.
 justAMoment: Een ogenblikje
 layout: Layout
+letUsSetupYourAccount: Laten we je account instellen
 logIn: Aanmelden
 loginWithProvider: 'Aanmelden met<br>{provider}'
 logOut: Afmelden
@@ -130,6 +133,7 @@ patron-4: Eerste stuurman
 patron-8: Kapitein
 patronHelp: Neem contact op met Joost als u vragen heeft of wijzigingen wilt aanbrengen in uw mecenas-status.
 patron: Mecenas
+ourPatrons: Onze mecenassen
 patronPitch: Als je denkt dat wat we doen de moeite waard is, en als je elke maand een paar munten kunt missen, dan moet jij ook een mecenas worden van freesewing.
 patronsKeepUsAfloat: Freesewing wordt mogelijk gemaakt door de financiële steun van onze mecenassen. Ze houden dit schip drijvend.
 patternInstructions: Patroon instructies
@@ -181,7 +185,7 @@ thisFieldSupportsMarkdown: Dit veld ondersteunt Markdown
 thisPageRequiresAuthentication: Deze pagina vereist authenticatie
 troubleLoggingIn: Problemen met aanmelden?
 twitter: Twitter
-txt-footer: Freesewing is een project van Joost De Cock & vrijwillige medewerkers<br>met de financiële steun van onze sponsors
+txt-footer: Freesewing is een project van Joost De Cock & vrijwillige medewerkers<br>met de financiële steun van onze mecenassen
 txt-tier0: Wil je ons niet steunen? Kan het niet veroorloven om ons te steunen?<br>Freesewing is gratis voor iedereen. Zonder verdere vragen.
 txt-tier2: Onze meest democratisch geprijsde optie. Het is minder dan de prijs van een latte, maar jouw steun betekent alles voor ons.
 txt-tier4: Abonneer je op deze optie en we sturen wat van onze erg gegeerde freesewing-swag naar je thuis. Waar ook ter wereld dat mag zijn.
@@ -208,3 +212,7 @@ youAreAPatron: Je bent een mecenas
 youAreNotAPatron: Je bent geen mecenas
 youAreNotLoggedIn: Je bent niet ingelogd
 yourRights: Jouw rechten
+filterByPattern: Filter op patroon
+searchLanguageTitle: Kunt u niet vinden waarnaar u op zoek bent?
+searchLanguageMsg: Elke taal heeft een eigen zoekindex. Aangezien niet al onze inhoud is vertaald, vindt u mogelijk meer resultaten via een Engelse zoekopdracht.
+

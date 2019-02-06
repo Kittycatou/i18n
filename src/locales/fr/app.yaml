@@ -7,6 +7,7 @@ aboutGist2: Vous pouvez copier / coller un résumé existant ici pour l'utiliser
 account: Compte
 accountCreated: Compte créé
 actions: Actions
+allDocumentation: Toute la documentation
 andThatIsAwesome: Et c'est génial
 applyThisLayout: Appliquer cette mise en page
 areYouSureYouWantToContinue: Es-tu sur de vouloir continuer?
@@ -33,8 +34,6 @@ clearGist: Effacer le résumé
 close: Fermer
 colourYes: "Image couleur: le contenu est disponible en français"
 community: Communauté
-completeSignupText: "Avant de commencer du mauvais pied, assurons-nous que votre compte est configuré correctement. Complétez simplement les étapes ci-dessous:"
-completeSignupTitle: Complétez votre inscription
 configureLayout: Configurer la mise en page
 configureYourDraft: Configurez votre ébauche
 contactUs: Nous contacter
@@ -53,9 +52,11 @@ darkMode: Mode sombre
 default: Standard
 demo: Démo
 docs: Documentation
+docsFooterMsg: La documentation n'est jamais terminée. J'espère que nous avons pu répondre à toutes vos questions, mais si ce n'est pas le cas, de l'aide est disponible.
 docsNotFoundMsg: Nous n'avons pas pu trouver cette documentation, ce qui signifie généralement qu'elle n'a pas encore été écrite.
 docsNotFoundTitle: Cette documentation est manquante
 documentationForDevelopers: Documentation pour les développeurs
+documentationForEditors: Documentation pour les éditeurs
 documentationForTranslators: Documentation pour les traducteurs
 documentationOverview: Vue d'ensemble de la documentation
 download: Télécharger
@@ -94,8 +95,10 @@ imperialUnits: Unités impériales (pouces)
 info: Info
 instagram: Instagram
 invalidTldMessage: '.{tld} n''est pas un TLD valide'
+joinTheChatMsg: Nous avons un forum de discussion sur Gitter avec des personnes amicales qui sont heureuses d'aider. Alors ne soyez pas timide, et arrêtez-vous pour bavarder.
 justAMoment: Juste un instant
 layout: Mis en page
+letUsSetupYourAccount: Laissez-nous configurer votre compte
 logIn: Connexion
 loginWithProvider: 'Connectez-vous avec<br>{provider}'
 logOut: Déconnexion
@@ -130,6 +133,7 @@ patron-4: Second
 patron-8: Capitaine
 patronHelp: Si vous avez des questions ou souhaitez modifier votre statut de Patron, veuillez contacter Joost.
 patron: Mécène
+ourPatrons: Notre mécènes
 patronPitch: Si vous pensez que ce que nous faisons vaut la peine, et si vous pouvez épargner quelques pièces chaque mois, vous devriez également devenir un mécène de Freesewing.
 patronsKeepUsAfloat: Freesewing est rendue possible grâce au soutien financier de nos mécènes. Ils gardent ce navire à flot.
 patternInstructions: Documentation du patron
@@ -208,3 +212,7 @@ youAreAPatron: Vous êtes un mécène
 youAreNotAPatron: Vous n'êtes pas mécène
 youAreNotLoggedIn: Vous n'êtes pas connecté
 yourRights: Vos droits
+filterByPattern: Filtrer par patron
+searchLanguageTitle: Vous ne trouvez pas ce que vous cherchez?
+searchLanguageMsg: Chaque langue a son propre index de recherche. Puisque tout notre contenu n'est pas traduit, vous pouvez trouver plus de résultats dans la recherche en anglais.
+
