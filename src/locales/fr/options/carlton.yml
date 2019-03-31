@@ -29,8 +29,8 @@ innerPocketWeltHeight: jaeger
 
 
 seatEase:
-  title: Aisance de siège
-  description: Quantité d'aisance autour de vos fesses
+  title: Aisance d'assise
+  description: Quantité d'aisance autour de vos fessiers
 
 pocketPlacementHorizontal:
   title: Placement horizontal de la poche
@@ -45,16 +45,16 @@ collarHeight:
   description: Hauteur du col
 
 length:
-  title: Longeur
+  title: Longueur
   description: Longueur totale
 
 pocketFlapRadius:
   title: Rayon de rabat de poche
-  description: Le montant par lequel le rabat de poche est arrondi
+  description: La quantité par laquelle le rabat de poche est arrondi
 
 pocketRadius:
   title: Rayon de poche
-  description: Le montant par lequel la poche est arrondie
+  description: La quantité par laquelle la poche est arrondie
 
 chestPocketHeight:
   title: Hauteur de la poche de poitrine
